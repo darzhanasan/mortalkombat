@@ -1,0 +1,109 @@
+header{background-color: rgb(180, 199, 8);
+    height: 500px;
+    color: black;
+    font-size:30px;
+    background-image:url(https://blog.playstation.com/tachyon/2023/08/5f32bdf5fb471a72c6eef2d55144ebca856308bd.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;}
+    
+    h1{
+        text-align: center;
+        font-size: 80%;
+        color: rgb(255, 255, 255);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 0;
+    }
+    h2{text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: rgb(255, 0, 0) 2px 5px 5px;}
+    
+    main{
+        background-color: rgb(217, 77, 42);
+        height: 100%;
+        color: black;
+        font-size: 25px;
+    background-image:url(https://upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Mortal-kombat-fighters.jpg/1200px-Mortal-kombat-fighters.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    background-image:url(https://upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Mortal-kombat-fighters.jpg/1200px-Mortal-kombat-fighters.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+    footer{
+        background-color: rgb(202, 211, 20);
+        height: 100%;
+        color: black;
+        font-size: 20px;
+        background-image:url() ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: radial-gradient(rgb(255, 255, 255),rgb(124, 54, 54));
+    display: flex;}
+    .f_left{
+        width: 30%;
+        float: left;
+        text-align: center;
+        padding: 20px;
+    }
+    .f_left img{
+        padding-top: 20px;
+    }
+    .f_right{
+        width: 70%;
+        float: right;
+    }
+    
+    .f_right img{width: 100px;
+    padding-left: 20px;}
+    
+    .f_right ul{
+        list-style: none;
+        display:flex;
+        align-items: center;
+    }
+    
+    
+    
+    
+        
+    
+    .right{
+        background-color: rgba(165, 42, 42, 0.703);
+        height: 100%;    
+        float: right;
+        width: 50%;
+        padding-left:50px;
+    padding-top:50px ;
+    padding-right:40px ;}
+    
+    
+    .left{
+        background-color: rgba(0, 0, 255, 0.711);
+        height: 100%;
+        width: 50%;
+        float: left;
+        color: rgb(255, 255, 255);
+    
+    padding-left:50px;
+    padding-top:50px ;
+    padding-right:50px ;
+    text-align: justify;
+    }
+    
+    .cont{
+        width: 80%;
+        height: 100%;
+        display: flex;
+    }
+    
+    
+    body{
+        margin: 0;
+    }
